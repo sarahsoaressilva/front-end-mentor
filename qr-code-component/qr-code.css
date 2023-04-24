@@ -51,8 +51,10 @@ h3, p {
 }
 
 h3 {
+    font-size: 20px;
     color: var(--dark-blue);
     font-weight: 700;
+    
 }
 
 p {
@@ -68,8 +70,8 @@ p {
     align-items: center;
 
     background-color: var(--white);
-    gap: 1rem;
-    padding: 1rem;
+    gap: 1.2rem;
+    padding: 1rem 1rem 2rem 1rem;
 
     border-radius: 1rem;
     
