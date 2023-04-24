@@ -45,13 +45,13 @@ CARD
 -------------- */
 
 
-h3, p {
+h2, p {
     max-width: 250px;
     text-align: center;
 }
 
-h3 {
-    font-size: 20px;
+h2 {
+    font-size: 22px;
     color: var(--dark-blue);
     font-weight: 700;
     
